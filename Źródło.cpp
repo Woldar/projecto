@@ -20,18 +20,3 @@ int main()
 
 	return (0);
 }
-
-
-/* 
-Niestety wykluczylem pewne pierwotne pomysly z gry
-Byly czasochlonne a nie wnosily nic wartosciowego do samego kodu
-Bede je rozwijal we wlasnym zakresie w trakcie wakacji
-
-np. stosowanie mikstrur, neutralni przeciwnicy, eventy
-np. mniejsza ilosc klas, przedmiotow i przeciwnikow
-
-operatory -> w wielu funkcjach
-polimorfizm -> klasy ekwipunek, pancerz i bron
-stringi -> przy nazwach przedmiotow, przeciwnikow
-wyjatki -> przy wyborach gracza
-*/
